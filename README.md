@@ -22,14 +22,6 @@ Busco constantemente aprimorar minhas habilidades e contribuir para projetos ino
 🔹 **Desenvolvimento Web:** HTML5, CSS3, JavaScript  
 🔹 **Conceitos:** Estruturas de Dados, Algoritmos, SOLID, MVC  
 
----
-
-## 📌 Projetos em Destaque  
-
-📌 **[Projeto de Porta Automática](#)** - Sistema de controle de acesso com microcontroladores e C  
-📌 **[Pesquisa Científica - UFS](#)** - Desenvolvimento de algoritmos em Python para controle supervisório  
-
-💻 Veja mais no meu [GitHub](https://github.com/seu-usuario)!  
 
 ---
 
@@ -41,7 +33,9 @@ Busco constantemente aprimorar minhas habilidades e contribuir para projetos ino
 ✅ **Python** (Curso em Vídeo - 120h)  
 ✅ **MySQL** (Curso em Vídeo - 40)
 ✅ **Linux** (Curso em Vídeo - 40h)
+✅ **Javascript** (Curso em Vídeo - 40)
 ✅ **JavaScript Algorithms and Data Structures Masterclass** (Udemy - 25h)
+✅ **Lógica de programção** (Udemy - 25h)
 
 ---
 
