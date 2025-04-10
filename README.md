@@ -32,10 +32,10 @@ Busco constantemente aprimorar minhas habilidades e contribuir para projetos ino
 ✅ **HTML5 e CSS3** (Curso em Vídeo - 200h)  
 ✅ **Python** (Curso em Vídeo - 120h)  
 ✅ **MySQL** (Curso em Vídeo - 40)
-✅ **Linux** (Curso em Vídeo - 40h)
-✅ **Javascript** (Curso em Vídeo - 40)
-✅ **JavaScript Algorithms and Data Structures Masterclass** (Udemy - 25h)
-✅ **Lógica de programção** (Udemy - 25h)
+✅ **Linux** (Curso em Vídeo - 40h)    
+✅ **Javascript** (Curso em Vídeo - 40)    
+✅ **JavaScript Algorithms and Data Structures Masterclass** (Udemy - 25h)    
+✅ **Lógica de programção** (Udemy - 25h)  
 
 ---
 
