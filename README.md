@@ -31,7 +31,7 @@ Busco constantemente aprimorar minhas habilidades e contribuir para projetos ino
 ✅ **CCNA: Introdução a Redes** (Cisco Networking Academy - 40h)  
 ✅ **HTML5 e CSS3** (Curso em Vídeo - 200h)  
 ✅ **Python** (Curso em Vídeo - 120h)  
-✅ **MySQL** (Curso em Vídeo - 40)
+✅ **MySQL** (Curso em Vídeo - 40)   
 ✅ **Linux** (Curso em Vídeo - 40h)    
 ✅ **Javascript** (Curso em Vídeo - 40)    
 ✅ **JavaScript Algorithms and Data Structures Masterclass** (Udemy - 25h)    
